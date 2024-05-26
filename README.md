@@ -13,7 +13,20 @@ O nosso projeto consistirá no desenvolvimento de uma aplicação inovadora que 
 
 **Fotos do projeto:**
 
+**Nodered:**
 ![image](https://github.com/felipih/Projeto-IOT/assets/111011642/9cb781e8-cf46-4660-a033-247be0cf870a)
+
+**Servo motor:**
+
+![image](https://github.com/felipih/Projeto-IOT/assets/111011642/4809aa43-09af-4159-968d-37d2c6c52fe3)
+
+**Sensor de umidade do solo:**
+
+![image](https://github.com/felipih/Projeto-IOT/assets/111011642/d4551904-8633-4550-acd7-97f16d5dfe7e)
+
+**Sensor de umidade do ar:**
+
+![image](https://github.com/felipih/Projeto-IOT/assets/111011642/0e498cd1-4bff-45c1-9f7c-a21c1937780d)
 
 
 **Códigos do projeto:**
